@@ -5,7 +5,7 @@ This project presents an interactive Power BI dashboard built to analyze Adidas 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](image.png)
+Image(Image.png)
 
 ---
 
