@@ -5,7 +5,7 @@ This project presents an interactive Power BI dashboard built to analyze Adidas 
 ---
 
 ## 📊 Dashboard Preview
-![Image](image.png)
+![Image](https://github.com/SenthilKumar27-SK/Adidas-Sales-Analysis-Dashboard/commit/1d614f1b19b6adce623918b82c2897cff4293ec3)
 
 ---
 
