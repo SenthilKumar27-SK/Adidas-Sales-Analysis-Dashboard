@@ -1,88 +1,79 @@
 # 🚀 Adidas Sales Analysis Dashboard (Power BI)
 
-This project presents an interactive Power BI dashboard built to analyze Adidas sales data and extract meaningful business insights across regions, products, and sales channels.
+## 📌 Overview
+
+This project focuses on analyzing Adidas sales data using Power BI to uncover key insights related to revenue, profit, product performance, and regional trends.
+
+The dashboard converts raw data into interactive visualizations to support data-driven decision-making.
 
 ---
 
 ## 📊 Dashboard Preview
-images dashboard_preview.png
+
+![Dashboard](https://raw.githubusercontent.com/SenthilKumar27-SK/Adidas-Sales-Analysis-Dashboard/main/images/dashboard_preview.png)
+
 ---
 
-## 📁 Project Structure
-- data/Adidas_Sales_Dataset.xlsx
-- dashboard/Adidas_Sales_Dashboard.pbix
-- images/dashboard_preview.png
+## 🎯 Objectives
+
+* Analyze overall sales and profit performance
+* Identify top-performing regions and products
+* Compare sales channels (Online, Outlet, In-store)
+* Track seasonal sales trends
 
 ---
 
 ## 🔍 Key Insights
 
-- 💰 Total Sales reached **$120M** with **$47M profit**
-- 👟 **Street Footwear** is the top-performing product category
-- 🌎 Highest sales contribution from **New York and California**
-- 🏙 Top profit-generating cities include **New York, Charleston, and San Francisco**
-- 🛒 **Online sales channel dominates** compared to outlet and in-store
-- 📈 **Q3 recorded peak sales (~35M)** indicating seasonal trends
+* 💰 Total Sales: **$120M+**
+* 📈 Profit: **$47M+**
+* 👟 Top Category: **Street Footwear**
+* 🌎 Best Regions: **New York, California**
+* 🛒 Top Channel: **Online Sales**
+* 📊 Peak Performance: **Q3**
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 Tools Used
 
-- Power BI (Data Visualization & Dashboard Design)
-- DAX (KPIs and Calculations)
-- Data Cleaning & Transformation
-- Excel (Dataset)
-
----
-
-## 📌 Features of the Dashboard
-
-- Interactive filters (Year, Region, City)
-- KPI cards (Sales, Profit, Units Sold, Avg Price)
-- Sales breakdown by product category
-- Profit analysis by retailer
-- Sales trend over quarters
-- Regional and city-level insights
+* Power BI
+* DAX
+* Excel
 
 ---
 
-## 📂 Dataset
+## 📁 Project Structure
 
-The dataset includes:
-- Sales Revenue
-- Profit
-- Units Sold
-- Product Category
-- Region, State, City
-- Sales Method (Online, Outlet, In-store)
+* `Adidas Sales Dataset.xlsx`
+* `Adidas Sales Dashboard.pbix`
+* `images dashboard_preview.png`
 
 ---
 
-## 🎯 Objective
+## ▶️ How to Use
 
-To transform raw Adidas sales data into a structured and interactive dashboard that helps in:
-- Identifying top-performing regions and products
-- Understanding sales trends and patterns
-- Supporting data-driven business decisions
-
----
-
-## 💾 How to Use
-
-1. Download the `.pbix` file from the `dashboard` folder
-2. Open using Power BI Desktop
-3. Interact with filters and visuals to explore insights
+1. Download `.pbix` file
+2. Open in Power BI Desktop
+3. Use filters to explore insights
 
 ---
 
-## 📢 Project Link
+## 🎯 Outcome
 
-GitHub Repository:  
-https://github.com/yourusername/adidas-sales-analysis
+This project demonstrates:
+
+* Data visualization skills
+* Business insight generation
+* Dashboard design thinking
+
+---
+
+## 💾 Project Link
+
+https://github.com/SenthilKumar27-SK/Adidas-Sales-Analysis-Dashboard
 
 ---
 
 ## 🙌 Feedback
 
-I am continuously improving my data analytics skills.  
-Feedback and suggestions are welcome!
+Suggestions are welcome to improve this project.
